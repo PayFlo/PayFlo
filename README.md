@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @PayFlo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hello there 👋
+
+- 🏢 I’m an IT Systems Engineer @ PayFit
+- 👾 I'm a nerd/geek, and I'm interested in everythong related to technology. 
+- 🌱 I’m currently learning Bash, I'm quite the noobie so bear with me.
+- 🎮 AS a proper nerd, on my free time I'm a gamer.
 
 <!---
 PayFlo/PayFlo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
