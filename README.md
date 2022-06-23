@@ -2,8 +2,10 @@ Hello there 👋
 
 - 🏢 I’m an IT Systems Engineer @ PayFit
 - 👾 I'm a nerd/geek, and I'm interested in everything related to technology. 
-- 🌱 I’m currently learning Bash, I'm quite the noobie so bear with me (Python next if everythong goes well).
+- 🌱 I’m currently learning Bash, I'm quite the noobie so bear with me (Python next if everything goes well).
 - 🎮 As a proper nerd, on my free time I'm a gamer and a tabletop player.
+
+See ya later aligator !
 
 <!---
 PayFlo/PayFlo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
